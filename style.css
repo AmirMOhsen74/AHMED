@@ -216,19 +216,19 @@ font-size: 1.3em;
     color: rgb(104, 197, 152);
     text-decoration: none;
 }
-.ahmed img{
+.about-us img{
     display: flex;
     justify-content: end;
     width: 100%;
 }
-.ahmed .text1 h2{
+.about-us .text1 h2{
     color: #52565e;
     display: flex;
     justify-content: center;
     padding-left: 50px;
     font-size: 700;
 }
-.ahmed .text1 p{
+.about-us .text1 p{
     display: flex;
     font-size: 16px;
     width: 100%;
